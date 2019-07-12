@@ -1,0 +1,10 @@
+ primero hacemos un git clone "link de repositorio"
+si se quiere recoger el repositorio a tu cuenta haces un commit
+git add *
+git push origin master   
+usuario
+contraseña
+git pull
+
+o para enviar un archivo 
+es te metes a la carpeta y haces lo demas
